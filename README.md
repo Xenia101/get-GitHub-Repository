@@ -2,7 +2,7 @@
 
 Get GitHub repository and use them [Github Developer Page](https://developer.github.com/v3/)
 
-## 예시 / Usage
+## EXAMPLE / Usage
 
 - Get the GitHub user data using Userinfo
 
