@@ -2,7 +2,7 @@
 
 Get GitHub repository and use them [Github Developer Page](https://developer.github.com/v3/)
 
-## EXAMPLE / Usage
+## Example / Usage
 
 - Get the GitHub user data using Userinfo
 
@@ -12,7 +12,7 @@ jQuery.Userinfo = function(username, callback) {
 }
 ```
 
-- Add the div tag to body
+- Add the ```<div></div>``` tag to body
 
 ```html
 <div id="repolist"></div>
