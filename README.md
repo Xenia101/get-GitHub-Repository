@@ -18,7 +18,7 @@ jQuery.Userinfo = function(username, callback) {
 <div id="repolist"></div>
 ```
 
-- Add GitHub user ID in index.html and then add the code before body is finished
+- Add GitHub user ID in index.html and then add the code before ```<body></body>``` is finished
 
 ```html
 <script src="./javascript/getGithubRepo.js" type="text/javascript"></script>
