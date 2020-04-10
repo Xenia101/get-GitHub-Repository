@@ -1,4 +1,4 @@
-# get GitHub Repository
+# Get GitHub Repository
 
 Get GitHub repository and use them [Github Developer Page](https://developer.github.com/v3/)
 
