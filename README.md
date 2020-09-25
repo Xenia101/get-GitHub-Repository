@@ -4,6 +4,17 @@ Get GitHub repository and use them [Github Developer Page](https://developer.git
 
 ## Example / Usage
 
+- Adding **jQuery** to Your Web Pages
+    - Download the jQuery library from jQuery.com
+    - Include jQuery from a CDN, like Google
+
+```html
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+```
+
+
 - Get the GitHub user data using Userinfo
 
 ```javascript
